@@ -13,6 +13,7 @@ root = Tk()
 
 root.geometry("450x250")
 root.resizable(False, False)
+root.iconbitmap("lock.ico")
 
 root.title("Secure Password Generator | Basith Mohammed")
 
